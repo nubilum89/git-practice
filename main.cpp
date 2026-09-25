@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout<<"Hello, garnd master!\n";
+  std::cout<<"Hello, garnd master и top-it!\n"
 }
 
